@@ -14,35 +14,35 @@ function wpsc_display_upgrades_page() {
 				<br />
 				<a href="http://getshopped.org/extend/premium-upgrades/premium-upgrades/gold-cart-plugin/" target="_blank"><strong><?php esc_html_e( 'Gold Cart', 'wpsc' ); ?></strong></a>
 				<p class='wpsc_gold_text'><?php esc_html_e( 'Add product search, multiple image upload, gallery view, Grid View and multiple payment gateway options to your shop', 'wpsc' ); ?></p>
-				<span class='wpsc_gold_info'><?php esc_html_e( '$47', 'wpsc' ); ?></span>
-			</div>
-
-			<div class='wpsc_gold_module'>
-				<br />
-				<a href="http://getshopped.org/premium-upgrades/premium-plugin/wp-e-commerce-product-importer-deluxe/" target="_blank"><strong><?php esc_html_e( 'WP e-Commerce – Product Importer Deluxe', 'wpsc' ); ?> </strong></a>
-				<p class='wpsc_gold_text'><?php esc_html_e( 'This Plugin mass imports hundreds, even thousands of linked Products and now Product Files and Images into WP e-Commerce.', 'wpsc' ); ?></p>
-				<span class='wpsc_gold_info'><?php esc_html_e( '$100', 'wpsc' ); ?></span>
+				<span class='wpsc_gold_info'><?php esc_html_e( '$40', 'wpsc' ); ?></span>
 			</div>
 
 			<div class='wpsc_gold_module'>
 				<br />
 				<a href="http://getshopped.org/extend/premium-upgrades/premium-upgrades/dropshop-2010/" target="_blank"><strong><?php esc_html_e( 'DropShop', 'wpsc' ); ?></strong></a>
 				<p class='wpsc_gold_text'><?php esc_html_e( 'Impress your customers with our AJAX powered DropShop that lets your customers drag and drop products into their shopping cart', 'wpsc' ); ?></p>
-				<span class='wpsc_gold_info'><?php esc_html_e( '$117', 'wpsc' ); ?></span>
+				<span class='wpsc_gold_info'><?php esc_html_e( '$100', 'wpsc' ); ?></span>
 			</div>
 
 			<div class='wpsc_gold_module'>
 				<br />
 				<a href="http://getshopped.org/extend/premium-upgrades/premium-upgrades/member-access-plugin/" target="_blank"><strong><?php esc_html_e( 'Members Access Plugin', 'wpsc' ); ?></strong></a>
 				<p class='wpsc_gold_text'><?php esc_html_e( 'Create product memberships and sell them in your store. Use these memberships to restrict premium content on your posts and pages creating a "members only" area perfect for: Forums, Images and Movies and Podcasts', 'wpsc' ); ?></p>
-				<span class='wpsc_gold_info'><?php esc_html_e( '$47', 'wpsc' ); ?></span>
+				<span class='wpsc_gold_info'><?php esc_html_e( '$49', 'wpsc' ); ?></span>
+			</div>
+
+			<div class='wpsc_gold_module'>
+				<br />
+				<a href="http://getshopped.org/extend/premium-upgrades/premium-upgrades/product-slider-2010/" target="_blank"><strong><?php esc_html_e( 'Product Slider', 'wpsc' ); ?> </strong></a>
+				<p class='wpsc_gold_text'><?php esc_html_e( 'Display your products in a new and fancy way using the "Product Slider" module.', 'wpsc' ); ?></p>
+				<span class='wpsc_gold_info'><?php esc_html_e( '$45', 'wpsc' ); ?></span>
 			</div>
 
 			<div class='wpsc_gold_module'>
 				<br />
 				<a href="http://getshopped.org/extend/premium-upgrades/premium-upgrades/nextgen-gallery-buy-now1/" target="_blank"><strong><?php esc_html_e( 'NextGen Gallery Buy Now Buttons', 'wpsc' ); ?> </strong></a>
 				<p class='wpsc_gold_text'><?php esc_html_e( 'Make your Online photo gallery into an e-Commerce solution.', 'wpsc' ); ?></p>
-				<span class='wpsc_gold_info'><?php esc_html_e( '$17', 'wpsc' ); ?></span>
+				<span class='wpsc_gold_info'><?php esc_html_e( '$10', 'wpsc' ); ?></span>
 			</div>
 
 			<div class='wpsc_gold_module'>
@@ -55,13 +55,13 @@ function wpsc_display_upgrades_page() {
 				<br />
 				<a href="http://getshopped.org/extend/premium-upgrades/premium-upgrades/fedex-shipping-module/" target="_blank"><strong><?php esc_html_e( 'FedEx Plugin', 'wpsc' ); ?> </strong></a>
 				<p class='wpsc_gold_text'><?php esc_html_e( 'This plugin offers shop owners the ability to provide Fedex Shipping Quotes for products with weights.', 'wpsc' ); ?></p>
-				<span class='wpsc_gold_info'><?php esc_html_e( '$27', 'wpsc' ); ?></span>
+				<span class='wpsc_gold_info'><?php esc_html_e( '$40', 'wpsc' ); ?></span>
 			</div>
 			<div class='wpsc_gold_module'>
 				<br />
 				<a href="http://www.bravenewcode.com/store/plugins/piggy/?utm_source=affiliate-6331&amp;utm_medium=affiliates&amp;utm_campaign=wpec" target="_blank"><strong><?php esc_html_e( 'Piggy', 'wpsc' ); ?> </strong></a>
 				<p class='wpsc_gold_text'><?php esc_html_e( 'Your WP E-Commerce sales, in your pocket. Piggy is a web-app that provides mobile access to view sales data for your WP E-Commerce powered WordPress website. Works on iOS and Android.', 'wpsc' ); ?></p>
-				<span class='wpsc_gold_info'><?php esc_html_e( '$47', 'wpsc' ); ?></span>
+				<span class='wpsc_gold_info'><?php esc_html_e( '$39', 'wpsc' ); ?></span>
 			</div>
 
 		</div>
